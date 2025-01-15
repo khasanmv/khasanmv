@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @khasan_mv
 - 👀 I’m interested in Python and Data Science
 - 🌱 I’m currently learning Python for Everybody
+- ✨ I’m currently learning Frontend with Miracle
 - 📫 How to reach me: email mavlyanovkhasan@gmail.com or telegram: khasan_mv
 
 <!---
